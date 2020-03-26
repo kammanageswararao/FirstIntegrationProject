@@ -1,1 +1,4 @@
 Merging bthe files
+
+
+@Added will see the file struture
