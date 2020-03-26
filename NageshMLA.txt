@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Nagesh you become a MLA
+=======
+Hello Nagesh you become a MLA & MP
+>>>>>>> master
